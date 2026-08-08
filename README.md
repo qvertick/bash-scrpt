@@ -1,6 +1,5 @@
-<img src="https://www.omgubuntu.co.uk/2016/11/neofetch-terminal-system-info-app" alt="neofetch">
+<img src="https://cubiclenate.com/wp-content/uploads/2018/09/neofetch-01.png" alt="neofetch">
 
-## bash-scrpt
-#                                         <3
+## bash-scrpt <3
 This template repository (for history about my study of <i>bash-scripting</i>)
 
