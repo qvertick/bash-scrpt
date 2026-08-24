@@ -4,7 +4,7 @@
 
 # bash-scrpt <3
 
-> **Template Repository** — история моего обучения и практики в *Bash-скриптинге*.
+> **Finl. Repository** — полезный?.
 
 ---
 
